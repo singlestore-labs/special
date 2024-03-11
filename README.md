@@ -1,5 +1,7 @@
 # Special [![Package][package-img]][package-url] [![Documentation][documentation-img]][documentation-url] [![Build][build1-img]][build1-url] [![Build][build2-img]][build2-url]
 
+**Attention**: The code in this repository is intended for experimental use only and is not fully tested, documented, or supported by SingleStore. Visit the [SingleStore Forums](https://www.singlestore.com/forum/) to ask questions about this repository.
+
 The package provides [special functions][1].
 
 ## Contribution
